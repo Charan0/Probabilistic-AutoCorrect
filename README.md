@@ -12,4 +12,5 @@ Now based on the vocab, given a sentence we find the misspelled word and find al
 ## To run the script:
 
 No additional dependencies are used other than the re module and the Counter class from the collections module
-Use : python main.py
+
+#### Use : python main.py
